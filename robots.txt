@@ -20,3 +20,5 @@ Disallow: /
 User-agent: Googlebot
 Disallow: /info/
 Disallow: /search/
+
+Sitemap: https://www.costoria.com/sitemap.xml
