@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Money Transfer Cost Calculator | Costoria</title>
+<meta name="description" content="Estimate the real cost of an international money transfer including fees and exchange rate margin.">
+</head>
+
+<body>
+
+<h1>Money Transfer Cost Calculator</h1>
+
+<p>
+Use this simple calculator to estimate the real cost of sending money internationally.
+Enter the transfer amount, the exchange rate offered by the bank, and the market exchange rate.
+</p>
+
+<label>Transfer Amount:</label><br> <input type="number" id="amount"><br><br>
+
+<label>Bank Exchange Rate:</label><br> <input type="number" id="bankRate" step="0.0001"><br><br>
+
+<label>Market Exchange Rate:</label><br> <input type="number" id="marketRate" step="0.0001"><br><br>
+
+<button onclick="calculate()">Calculate Cost</button>
+
+<h2 id="result"></h2>
+
+<script>
+function calculate() {
+
+let amount = document.getElementById("amount").value;
+let bankRate = document.getElementById("bankRate").value;
+let marketRate = document.getElementById("marketRate").value;
+
+let bankValue = amount * bankRate;
+let marketValue = amount * marketRate;
+
+let difference = marketValue - bankValue;
+
+document.getElementById("result").innerHTML =
+"Estimated hidden cost: " + difference.toFixed(2);
+
+}
+</script>
+
+</body>
+</html>
