@@ -1,12 +1,10 @@
-# robots.txt for costoria.com (English)
-# Controls how search engines crawl and index the site.
-# Keep this file as plain text, do NOT include any HTML tags.
+# robots.txt for costoria.com
 
-# Allow all search engines to crawl the entire site
+# Allows search engines to crawl the site while blocking specific AI crawlers.
+
 User-agent: *
 Allow: /
 
-# Block specific crawlers
 User-agent: Amazonbot
 Disallow: /
 
@@ -16,9 +14,4 @@ Disallow: /
 User-agent: ClaudeBot
 Disallow: /
 
-# Optional: block Google from sensitive paths
-User-agent: Googlebot
-Disallow: /info/
-Disallow: /search/
-
-Sitemap: https://www.costoria.com/sitemap.xml
+Sitemap: https://costoria.com/sitemap.xml
