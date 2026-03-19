@@ -3,71 +3,107 @@
 
   <url>
     <loc>https://costoria.com/</loc>
-    <lastmod>2026-03-15</lastmod>
+    <lastmod>2026-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
+  <!-- Core Pages -->
   <url>
     <loc>https://costoria.com/international-transfer-fees.html</loc>
-    <lastmod>2026-03-15</lastmod>
+    <lastmod>2026-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://costoria.com/money-transfer-cost-calculator.html</loc>
-    <lastmod>2026-03-15</lastmod>
+    <lastmod>2026-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://costoria.com/core-transfer-fees.html</loc>
-    <lastmod>2026-03-01</lastmod>
+    <lastmod>2026-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://costoria.com/intermediary-bank-fees.html</loc>
-    <lastmod>2026-03-01</lastmod>
+    <lastmod>2026-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://costoria.com/exchange-rate-margin.html</loc>
-    <lastmod>2026-03-01</lastmod>
+    <lastmod>2026-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://costoria.com/exchange-rate-margin-calculation.html</loc>
-    <lastmod>2026-03-01</lastmod>
+    <lastmod>2026-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- 새로 추가된 3개 SEO 글 -->
+  <!-- Articles -->
   <url>
     <loc>https://costoria.com/why-international-bank-transfers-are-expensive.html</loc>
-    <lastmod>2026-03-15</lastmod>
+    <lastmod>2026-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://costoria.com/hidden-fees-in-international-money-transfers.html</loc>
-    <lastmod>2026-03-15</lastmod>
+    <lastmod>2026-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://costoria.com/bank-transfer-vs-wise-fees.html</loc>
-    <lastmod>2026-03-15</lastmod>
+    <lastmod>2026-03-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://costoria.com/cheapest-way-to-send-money-internationally.html</loc>
+    <lastmod>2026-03-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://costoria.com/what-is-exchange-rate-margin.html</loc>
+    <lastmod>2026-03-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://costoria.com/mid-market-exchange-rate-explained.html</loc>
+    <lastmod>2026-03-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://costoria.com/why-banks-have-worse-exchange-rates.html</loc>
+    <lastmod>2026-03-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://costoria.com/how-much-do-banks-charge-international-transfers.html</loc>
+    <lastmod>2026-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
